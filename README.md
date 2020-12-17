@@ -1,2 +1,2 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zchary-ma&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-ma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zchary-ma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
