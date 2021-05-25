@@ -3,7 +3,7 @@
 </h3>
 
 -  **Working and Learning :** Web Development
--  **Hobbies :** Basketball :basketball: & phtography 📷:
+-  **Hobbies :** Basketball :basketball:  & phtography 📷:
 -  **Contact me :** [ZcharyMa](mailto:zcharyma@gmail.com)
 
 <a href="#"><img src="https://badges.pufler.dev/visits/zchary-ma/zchary-ma"></a>
