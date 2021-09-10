@@ -3,16 +3,18 @@
 </h3>
 
 -  **Working and Learning :** Web Development
--  **Hobbies :** Basketball :basketball:  & phtography 📷:
--  **Contact me :** [ZcharyMa](mailto:zcharyma@gmail.com)
 
 <a href="#"><img src="https://badges.pufler.dev/visits/zchary-ma/zchary-ma"></a>
 [![Twitter](https://img.shields.io/twitter/follow/zcharyma.svg?style=social&label=follow)](https://twitter.com/intent/follow?screen_name=zcharyma)
+<a href="https://stackoverflow.com/users/12715116/zchary">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow">
+</a>
 
 
-> Currently struggling to learn these stacks:
+> passionnate about these stacks:
 
 <p>
+  
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
