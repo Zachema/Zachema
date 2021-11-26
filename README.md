@@ -29,4 +29,4 @@
 
 ---
 <img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api?username=zchary-ma&theme=tokyonight&show_icons=true">
-<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchary-ma&layout=compact&theme=tokyonight">
+<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchary-ma&layout=compact&theme=tokyonight&hide=html,css&card_width=250">
