@@ -5,7 +5,7 @@
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
 </h3>
 
-- **Working and Learning :** Web development
+- **Working and Learning :** Go | Distributed System
 - **SideProject Goal :** Build instrumental SaaS application
 - **Dream :** Digital Nomad
 
