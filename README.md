@@ -1,5 +1,4 @@
 <a href="#"><img src="https://badges.pufler.dev/visits/zchary-ma/zchary-ma"></a>
-[![Twitter](https://img.shields.io/twitter/follow/zcharyma.svg?style=social&label=follow)](https://twitter.com/intent/follow?screen_name=zcharyma)
 
 <h3 >
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
