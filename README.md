@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow">
 </a>
  <a href="https://blog.zchary.cn/index.xml"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="blog"></a>
-<a href="https://twitter.com/zcharyma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 
 #### 🎯 passionate about:
 
