@@ -1,4 +1,4 @@
-<a href="#"><img src="https://badges.pufler.dev/visits/zchary-ma/zchary-ma"></a>
+<a href="#"><img src="https://badges.pufler.dev/visits/zachema/zachema"></a>
 
 <h3 >
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
@@ -26,5 +26,5 @@
 </p>
 
 ---
-<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api?username=zchary-ma&theme=tokyonight&show_icons=true">
-<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchary-ma&layout=compact&theme=tokyonight&hide=html,css&card_width=250">
+<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api?username=zachema&theme=tokyonight&show_icons=true">
+<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachema&layout=compact&theme=tokyonight&hide=html,css&card_width=250">
