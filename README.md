@@ -4,7 +4,7 @@
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
 </h3>
 
-- **Working and Learning :** Go | Distributed System
+- **Working and Learning :** NodeJS | Go | DevOps
 - **SideProject Goal :** Build instrumental SaaS application
 - **Dream :** Digital Nomad
 
