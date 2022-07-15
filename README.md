@@ -1,4 +1,4 @@
-<a href="#"><img src="https://badges.pufler.dev/visits/zcharym/zcharym"></a>
+<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=zcharym.zcharym"></a>
 
 <h3 >
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
