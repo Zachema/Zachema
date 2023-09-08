@@ -4,10 +4,8 @@
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
 </h3>
 
-- **Working and Learning :** NodeJS | Go | DevOps
+- **Working and Learning :** Python > Go > DevOps > JS Fullstack > LLM
 - **SideProject Goal :** Build instrumental SaaS application
-- **Dream :** Digital Nomad
-
 
 #### 🛸 where you can find me:
 
