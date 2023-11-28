@@ -21,7 +21,3 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
-
----
-<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api?username=zcharym&theme=tokyonight&show_icons=true">
-<img style="max-width: 330px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcharym&layout=compact&theme=tokyonight&hide=html,css&card_width=250">
