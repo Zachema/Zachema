@@ -1,11 +1,10 @@
-<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=zcharym.zcharym"></a>
 
 <h3 >
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
 </h3>
 
-- **Working and Learning :** Python > Go > DevOps > JS Fullstack > LLM
-- **SideProject Goal :** Build instrumental SaaS application
+- **Working and Learning :** Go > Python > DevOps > JS Fullstack > LLM
+- **Interests :** AGI | Self-hosted | Photography
 
 #### 🛸 where you can find me:
 
