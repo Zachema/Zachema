@@ -3,7 +3,8 @@
   Hi! I'm Zchary, welcome to my page :)👨‍💻  
 </h3>
 
-- **Working and Learning :** Go > Python > DevOps > JS Fullstack > LLM
+- **Working**: CAD/C++/DevOps
+- **Learning :** Go > Python > JS Fullstack > LLM
 - **Interests :** AGI | Self-hosted | Photography
 
 #### 🛸 where you can find me:
